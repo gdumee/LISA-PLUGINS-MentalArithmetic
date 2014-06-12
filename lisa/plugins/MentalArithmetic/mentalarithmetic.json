@@ -1,0 +1,20 @@
+{
+    "name": "MentalArithmetic",
+    "version": "0.1",
+    "author": "Gilles Dumee",
+    "enabled": 1,
+    "pypi-url": "https://pypi.python.org/pypi/lisa-plugin-MentalArithmetic",
+    "github-url": "https://raw.githubusercontent.com/Gilles Dumee/LISA-PLUGINS-MentalArithmetic/master/lisa/plugins/MentalArithmetic/mentalarithmetic.json",
+    "description": [
+        {"lang": "en", "description": "Auto-generated plugin"}
+    ],
+    "lang": ["en"],
+    "configuration": {
+        "intents": {
+            "mentalcalcul_add": {
+                "method": "addition",
+                "corpus": {}
+            }
+        }
+    }
+}
